@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Ubiquitous Tracking and Schedulling System</string>
+    <string name="app_name">Ubiquitous Tracking and Schedulling System</string>
+    <string name="search_map">          Map          </string>
+    <string name="search_details">  Search Details </string>
+    <string name="map_end">Back</string>
+    <string name="details_end">Back</string>
+    <string name="put_details">Please fill particulars in the following form.</string>
+    <string name="name">Name</string>
+    <string name="fin">IC/FIN</string>
+    <string name="dob">Date of Birth</string>
+    <string name="address">Address</string>
+    <string name="contact">Contact Number</string>
+    <string name="submit">Submit</string>
+
+</resources>
